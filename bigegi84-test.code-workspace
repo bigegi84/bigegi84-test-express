@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "..\\bigegi84-test-laravel"
+		},
+		{
+			"path": "..\\bigegi84-test-ci"
 		}
 	],
 	"settings": {}
