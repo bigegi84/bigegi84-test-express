@@ -1,0 +1,23 @@
+{
+  "name": "bigegi84-test-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigegi84/bigegi84-test-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigegi84/bigegi84-test-express/issues"
+  },
+  "homepage": "https://github.com/bigegi84/bigegi84-test-express#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
