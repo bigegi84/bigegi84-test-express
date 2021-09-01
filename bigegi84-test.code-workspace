@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "..\\bigegi84-test-gin"
+		},
+		{
+			"path": "..\\bigegi84-test-laravel"
 		}
 	],
 	"settings": {}
