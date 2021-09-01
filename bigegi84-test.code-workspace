@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "..\\bigegi84-test-angular"
+		},
+		{
+			"path": "..\\bigegi84-test-vue"
 		}
 	],
 	"settings": {}
