@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "..\\bigegi84-test-ci"
+		},
+		{
+			"path": "..\\bigegi84-test-boostrap"
 		}
 	],
 	"settings": {}
