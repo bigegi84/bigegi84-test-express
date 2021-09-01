@@ -11,6 +11,12 @@
 		},
 		{
 			"path": "..\\bigegi84-test-vue"
+		},
+		{
+			"path": "..\\bigegi84-test-rails"
+		},
+		{
+			"path": "..\\bigegi84-test-gin"
 		}
 	],
 	"settings": {}
