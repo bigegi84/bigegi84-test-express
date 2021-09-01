@@ -1,10 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "..\\bigegi84-vue-test"
+			"path": "."
 		},
 		{
-			"path": "."
+			"path": "..\\bigegi84-test-react"
+		},
+		{
+			"path": "..\\bigegi84-test-angular"
 		}
 	],
 	"settings": {}
