@@ -8,7 +8,7 @@ module.exports = () => {
   app.get('*', (req, res) => {
     res.send(req.url)
   })
-  app.listen(1001, () => {
+  app.listen(8080, () => {
     console.log('listen')
   })
 }
